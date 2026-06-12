@@ -1,0 +1,11 @@
+pizza_type_id,name,category,ingredients
+bbq_ckn,"The Barbecue Chicken Pizza",Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce"
+cali_ckn,"The California Chicken Pizza",Chicken,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese"
+ckn_alfredo,"The Chicken Alfredo Pizza",Chicken,"Chicken, Red Onions, Red Peppers, Mushrooms, Asiago Cheese, Alfredo Sauce"
+ckn_pesto,"The Chicken Pesto Pizza",Chicken,"Chicken, Tomatoes, Red Peppers, Spinach, Garlic, Pesto Sauce"
+southw_ckn,"The Southwest Chicken Pizza",Chicken,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce"
+thai_ckn,"The Thai Chicken Pizza",Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce"
+big_meat,"The Big Meat Pizza",Classic,"Bacon, Pepperoni, Italian Sausage, Chorizo Sausage"
+classic_dlx,"The Classic Deluxe Pizza",Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon"
+hawaiian,"The Hawaiian Pizza",Classic,"Sliced Ham, Pineapple, Mozzarella Cheese"
+ital_cpcllo,"The Italian Capocollo Pizza",Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano"

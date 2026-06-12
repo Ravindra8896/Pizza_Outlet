@@ -1,0 +1,11 @@
+pizza_id,pizza_type_id,size,price
+bbq_ckn_s,bbq_ckn,S,12.75
+bbq_ckn_m,bbq_ckn,M,16.75
+bbq_ckn_l,bbq_ckn,L,20.75
+cali_ckn_s,cali_ckn,S,12.75
+cali_ckn_m,cali_ckn,M,16.75
+cali_ckn_l,cali_ckn,L,20.75
+ckn_alfredo_s,ckn_alfredo,S,12.75
+ckn_alfredo_m,ckn_alfredo,M,16.75
+ckn_alfredo_l,ckn_alfredo,L,20.75
+ckn_pesto_s,ckn_pesto,S,12.75
